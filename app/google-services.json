@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497684963647",
+    "project_id": "ecomonitor-ae261",
+    "storage_bucket": "ecomonitor-ae261.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497684963647:android:103984e520d85a2346338a",
+        "android_client_info": {
+          "package_name": "com.example.monitoreo_ambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KntpuYqLZfFbdBvezyhBjMfb7CukdKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
